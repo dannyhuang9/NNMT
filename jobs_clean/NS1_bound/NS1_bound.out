@@ -13845,3 +13845,17 @@
  Iteration    1 A*A^-1 deviation from orthogonality  is 4.25D-15 for   3590   1140.
  Iteration    1 A^-1*A deviation from unit magnitude is 7.33D-15 for   4581.
  Iteration    1 A^-1*A deviation from orthogonality  is 3.79D-15 for   3635   1117.
+ E= -1764.96436326484    
+ DIIS: error= 6.73D-03 at cycle   1 NSaved=   1.
+ NSaved= 1 IEnMin= 1 EnMin= -1764.96436326484     IErMin= 1 ErrMin= 6.73D-03
+ ErrMax= 6.73D-03  0.00D+00 EMaxC= 1.00D-01 BMatC= 3.06D-02 BMatP= 3.06D-02
+ IDIUse=3 WtCom= 9.33D-01 WtEn= 6.73D-02
+ Coeff-Com:  0.100D+01
+ Coeff-En:   0.100D+01
+ Coeff:      0.100D+01
+ Gap=     0.602 Goal=   None    Shift=    0.000
+ GapD=    0.602 DampG=2.000 DampE=1.000 DampFc=2.0000 IDamp=-1.
+ RMSDP=1.13D-03 MaxDP=4.69D-02              OVMax= 5.04D-02
+
+ Cycle   2  Pass 1  IDiag  1:
+ RMSU=  1.13D-03    CP:  9.99D-01
