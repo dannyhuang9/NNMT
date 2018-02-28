@@ -2,4 +2,4 @@
 %mem=3GB
 #p b3lyp empiricaldispersion=gd3bj 6-31g scrf=(pcm,solvent=water) opt freq=noraman
 
-NS1
+Glutamic Acid Nitro-Anion
