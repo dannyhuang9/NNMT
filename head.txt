@@ -1,5 +1,5 @@
-%nprocshared=4
-%mem=3GB
-#p b3lyp empiricaldispersion=gd3bj 6-31g scrf=(pcm,solvent=water) opt freq=noraman
+%nprocshared=5
+%mem=4GB
+#p b3lyp empiricaldispersion=gd3bj 6-31g scrf=(pcm,solvent=methyltertbutylether) opt freq=noraman
 
-Glutamic Acid Nitro-Anion
+Glutamic Acid Nickel Complex
