@@ -2,3 +2,16 @@
 holy7c17108.rc.fas.harvard.edu
 Job nickel_phenanthroline_freeze started at...
 Wed Feb 28 19:15:46 EST 2018
+
+Job finished at:
+Wed Feb 28 19:46:17 EST 2018
+
+Job terminated normally...
+
+Final energy:
+SCF Done: E(UB3LYP) = -2079.43803325 A.U. after 1 cycles
+
+No imaginary frequencies found.
+ Sum of electronic and thermal Free Energies=        -2079.298848
+*************************************
+
