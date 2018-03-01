@@ -1,0 +1,17 @@
+*************************************
+holy7c17108.rc.fas.harvard.edu
+Job glut_nitro_anion_rot_freeze started at...
+Wed Feb 28 21:23:28 EST 2018
+
+Job finished at:
+Wed Feb 28 21:49:40 EST 2018
+
+Job terminated normally...
+
+Final energy:
+SCF Done: E(RB3LYP) = -758.842703671 A.U. after 1 cycles
+
+No imaginary frequencies found.
+ Sum of electronic and thermal Free Energies=         -758.693240
+*************************************
+
