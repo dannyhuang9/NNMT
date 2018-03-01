@@ -1,0 +1,11 @@
+*************************************
+holy7c11110.rc.fas.harvard.edu
+Job glut_nitro_anion_nickel_complex started at...
+Wed Feb 28 20:17:29 EST 2018
+
+Job finished at:
+Wed Feb 28 20:47:55 EST 2018
+
+Abort--Job did not terminate normally.
+*************************************
+

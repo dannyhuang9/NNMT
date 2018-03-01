@@ -32,3 +32,42 @@ No imaginary frequencies found.
  Sum of electronic and thermal Free Energies=        -2079.298848
 *************************************
 
+*************************************
+holy7c11110.rc.fas.harvard.edu
+Job glut_nitro_anion_nickel_complex started at...
+Wed Feb 28 20:11:51 EST 2018
+
+Job finished at:
+Wed Feb 28 20:11:52 EST 2018
+
+Abort--Job did not terminate normally.
+*************************************
+
+*************************************
+holy7c01101.rc.fas.harvard.edu
+Job NS1_bound started at...
+Wed Feb 28 16:08:40 EST 2018
+
+Job finished at:
+Wed Feb 28 20:38:07 EST 2018
+
+Job terminated normally...
+
+Final energy:
+SCF Done: E(RB3LYP) = -1765.03279087 A.U. after 1 cycles
+
+No imaginary frequencies found.
+ Sum of electronic and thermal Free Energies=        -1764.585971
+*************************************
+
+*************************************
+holy7c11110.rc.fas.harvard.edu
+Job glut_nitro_anion_nickel_complex started at...
+Wed Feb 28 20:17:29 EST 2018
+
+Job finished at:
+Wed Feb 28 20:47:55 EST 2018
+
+Abort--Job did not terminate normally.
+*************************************
+
