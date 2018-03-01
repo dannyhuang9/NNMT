@@ -1,5 +1,5 @@
-%nprocshared=5
-%mem=4GB
-#p b3lyp empiricaldispersion=gd3bj 6-31g scrf=(pcm,solvent=water) opt freq=noraman
+%nprocshared=6
+%mem=5GB
+#p b3lyp empiricaldispersion=gd3bj 6-31g scrf=(pcm,solvent=1,4-dioxane) opt freq=noraman
 
-Glutamic Acid Nitro Rotamer
+Glutamic Acid (-Acid) Nitro Rotamer
